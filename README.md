@@ -1,1 +1,2 @@
-# proyecto71
+# PRO C71 Proyecto
+Plantilla de código del proyecto
